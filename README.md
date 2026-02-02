@@ -62,45 +62,38 @@ I'm a passionate developer who transforms ideas into reality through clean, effi
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek-mule&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=abhishek-mule&theme=radical&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats-git-master-rahuldkjain.vercel.app/api?username=abhishek-mule&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://stats.justsong.io/api/streak?user=abhishek-mule&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats-git-master-rahuldkjain.vercel.app/api/top-langs/?username=abhishek-mule&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mule&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-mule&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-mule&custom_title=Abhishek's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=abhishek-mule&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-mule&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
 
 ---
 
 ## 💭 Developer Wisdom
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
 
 ---
 
