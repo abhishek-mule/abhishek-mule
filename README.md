@@ -63,12 +63,12 @@ I'm a passionate developer who transforms ideas into reality through clean, effi
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek-mule&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-mule&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats-git-master-rahuldkjain.vercel.app/api?username=abhishek-mule&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mule&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="https://stats.justsong.io/api/streak?user=abhishek-mule&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats-git-master-rahuldkjain.vercel.app/api/top-langs/?username=abhishek-mule&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
