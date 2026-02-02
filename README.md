@@ -64,11 +64,11 @@ I'm a passionate developer who transforms ideas into reality through clean, effi
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-mule&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=abhishek-mule&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abhishek-mule&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-mule&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mule&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mule&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -76,7 +76,11 @@ I'm a passionate developer who transforms ideas into reality through clean, effi
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek-mule&theme=tokyo-night&hide_border=true&area=true)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-mule&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 
@@ -84,7 +88,7 @@ I'm a passionate developer who transforms ideas into reality through clean, effi
 
 <div align="center">
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=abhishek-mule&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=abhishek-mule&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 
 </div>
 
@@ -94,7 +98,7 @@ I'm a passionate developer who transforms ideas into reality through clean, effi
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
@@ -126,7 +130,7 @@ If you find my projects helpful or interesting, consider buying me a coffee!
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=abhishek-mule&icon=5&color=6)
+<img src="https://komarev.com/ghpvc/?username=abhishek-mule&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
