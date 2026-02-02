@@ -118,14 +118,16 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek-mule&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-mule&theme=radical&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/abhishek-mule">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishek-mule&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishek-mule&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 </div>
 
 <div align="center">
   
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mule&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=abhishek-mule&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -135,23 +137,49 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-mule&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-mule&bg_color=050f2c&color=00d9ff&line=00d9ff&point=0a855c&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
 
 </div>
+
+<details>
+<summary><b>📊 Detailed GitHub Metrics</b></summary>
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-mule&theme=radical" width="100%" alt="Profile Summary" />
+![](https://raw.githubusercontent.com/abhishek-mule/abhishek-mule/output/github-contribution-grid-snake-dark.svg)
+
+### 📅 Contribution Calendar
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-mule&theme=algolia" width="100%" />
+
+### ⏰ Productive Time
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-mule&theme=algolia&utcOffset=5.5" width="49%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-mule&theme=algolia" width="49%" />
 
 </div>
+
+</details>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhishek-mule&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=abhishek-mule&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7" width="100%" alt="GitHub Trophies" />
+
+</div>
+
+### 📌 Pinned Metrics
+
+<div align="center">
+
+| 📊 Stats | 🔥 Streaks | 🌟 Highlights |
+|:---------|:-----------|:--------------|
+| ![](https://img.shields.io/badge/Total_Commits-Track_Your_Progress-blue?style=for-the-badge) | ![](https://img.shields.io/badge/Current_Streak-Keep_It_Going-orange?style=for-the-badge) | ![](https://img.shields.io/badge/Public_Repos-Growing-green?style=for-the-badge) |
+| ![](https://img.shields.io/badge/Stars_Earned-Community_Love-yellow?style=for-the-badge) | ![](https://img.shields.io/badge/PRs_Merged-Contributions-red?style=for-the-badge) | ![](https://img.shields.io/badge/Issues_Solved-Problem_Solver-purple?style=for-the-badge) |
 
 </div>
 
@@ -161,13 +189,54 @@
 
 <div align="center">
 
-| 🌟 Achievement | 📈 Metric |
-|:--------------|:----------|
-| **Total Stars Earned** | ⭐ Stars across repositories |
-| **Projects Completed** | 🚀 Multiple full-stack applications |
-| **Open Source** | 🌍 Active contributor |
-| **Code Contributions** | 💻 Daily commits streak |
-| **Learning Streak** | 📚 Continuous learning journey |
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/star.png" width="50"/>
+<br>
+<b>⭐ Open Source</b>
+<br>
+Active Contributor
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/>
+<br>
+<b>🚀 Projects</b>
+<br>
+Full-Stack Applications
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/>
+<br>
+<b>💻 Daily Coding</b>
+<br>
+Consistent Contributor
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="50"/>
+<br>
+<b>🔐 Cybersecurity</b>
+<br>
+Security Focused
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="50"/>
+<br>
+<b>☁️ Cloud Native</b>
+<br>
+Modern Architecture
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="50"/>
+<br>
+<b>📚 Continuous Learning</b>
+<br>
+Always Growing
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -177,7 +246,25 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote" />
+
+</div>
+
+### 📉 Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<details>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 </div>
 
