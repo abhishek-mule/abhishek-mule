@@ -62,8 +62,12 @@ I'm a passionate developer who transforms ideas into reality through clean, effi
 
 ## 📊 GitHub Statistics
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=abhishek-mule&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mule&theme=dark&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=abhishek-mule&show_icons=true&theme=dark)
+
+![Streak](https://streak-stats.demolab.com?user=abhishek-mule&theme=dark)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mule&layout=compact&theme=dark)
+
 
 
 ---
@@ -78,7 +82,7 @@ I'm a passionate developer who transforms ideas into reality through clean, effi
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhishek-mule&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=abhishek-mule&theme=dark&no-frame=true)
 
 
 ---
