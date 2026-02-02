@@ -11,9 +11,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=abhishek-mule&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abhishek-mule&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mule&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Abhishek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek-mule&theme=tokyonight&area=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhishek-mule&theme=yeblu&no-frame=false&no-bg=true&margin-w=4)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Abhishek's GitHub Rank](https://github-readme-stats.vercel.app/api?username=abhishek-mule&show_icons=true&theme=radical&rank_icon=github)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
