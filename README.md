@@ -1,276 +1,145 @@
 <div align="center">
 
-# 👋 Hi there, I'm Abhishek
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Open+Source+Contributor+%F0%9F%8C%9F;Transforming+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek-mule&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/abhishek-mule?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
-### 🎯 Passionate developer transforming ideas into reality through clean, efficient code
-### 🔭 Currently focused on building scalable web applications and exploring cybersecurity
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Abhishek%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 </div>
 
----
+<div align="center">
+  
+### 🚀 Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🌟 Open Source Contributor
 
-## 🚀 What I'm Up To
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+web+applications+%F0%9F%92%BB;Exploring+cybersecurity+%F0%9F%94%90;Contributing+to+open+source+%F0%9F%8C%8D;Transforming+ideas+into+reality+%E2%9C%A8" alt="Typing SVG" />
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</div>
 
-- 🔨 Building full-stack web applications with modern technologies
-- 🔐 Diving deep into cybersecurity and ethical hacking
-- 🌱 Contributing to open source projects
-- 💡 Learning by doing — every project is a new adventure
-- 🎯 Mastering cloud-native architectures
-- 📚 Constantly expanding my tech knowledge
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## 👨‍💻 About Me
+
+```javascript
+const abhishek = {
+    role: "Full-Stack Developer",
+    location: "India 🇮🇳",
+    currentFocus: ["Web Development", "Cybersecurity", "Open Source"],
+    technologies: {
+        frontend: ["React", "Next.js", "Vue.js", "Flutter"],
+        backend: ["Node.js", "Express", "FastAPI", "GraphQL"],
+        databases: ["PostgreSQL", "MongoDB", "MySQL"],
+        devOps: ["Docker", "AWS", "Git"]
+    },
+    currentlyLearning: "Ethical Hacking & Cloud Architecture",
+    funFact: "I debug with console.log() and I'm proud of it! 😄"
+};
+```
 
 <br clear="both"/>
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">🛠️ My Tech Arsenal</h2>
 
-<details open>
-<summary><b>🔤 Languages</b></summary>
-<br>
+<div align="center">
 
+### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br>
-
+### Frontend Development
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br>
-
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🗄️ Database</b></summary>
-<br>
-
+### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>☁️ DevOps & Cloud</b></summary>
-<br>
-
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Technologies</b></summary>
-<br>
-
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-</details>
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishek-mule&show_icons=true&theme=tokyonight&hide_border=true&show_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishek-mule&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhishek-mule&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-mule&theme=tokyo-night&hide_border=true&area=true&custom_title=Abhishek's%20Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 GitHub Profile Trophy</h2>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-mule&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-mule&theme=tokyonight" alt="Repos Per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-mule&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-mule&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-mule&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+---
+
+<h2 align="center">🌟 Featured Projects</h2>
+
 <div align="center">
 
 <a href="https://github.com/abhishek-mule">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishek-mule&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishek-mule&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abhishek-mule&repo=abhishek-mule&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com/?user=abhishek-mule&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
-
-</div>
+<p align="center">
+  <i>⭐ Check out my repositories for more awesome projects!</i>
+</p>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-mule&bg_color=050f2c&color=00d9ff&line=00d9ff&point=0a855c&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
-
-</div>
-
-<details>
-<summary><b>📊 Detailed GitHub Metrics</b></summary>
-<br>
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/abhishek-mule/abhishek-mule/output/github-contribution-grid-snake-dark.svg)
-
-### 📅 Contribution Calendar
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-mule&theme=algolia" width="100%" />
-
-### ⏰ Productive Time
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-mule&theme=algolia&utcOffset=5.5" width="49%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-mule&theme=algolia" width="49%" />
-
-</div>
-
-</details>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhishek-mule&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7" width="100%" alt="GitHub Trophies" />
-
-</div>
-
-### 📌 Pinned Metrics
-
-<div align="center">
-
-| 📊 Stats | 🔥 Streaks | 🌟 Highlights |
-|:---------|:-----------|:--------------|
-| ![](https://img.shields.io/badge/Total_Commits-Track_Your_Progress-blue?style=for-the-badge) | ![](https://img.shields.io/badge/Current_Streak-Keep_It_Going-orange?style=for-the-badge) | ![](https://img.shields.io/badge/Public_Repos-Growing-green?style=for-the-badge) |
-| ![](https://img.shields.io/badge/Stars_Earned-Community_Love-yellow?style=for-the-badge) | ![](https://img.shields.io/badge/PRs_Merged-Contributions-red?style=for-the-badge) | ![](https://img.shields.io/badge/Issues_Solved-Problem_Solver-purple?style=for-the-badge) |
-
-</div>
-
----
-
-## 🎯 Achievements & Highlights
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/star.png" width="50"/>
-<br>
-<b>⭐ Open Source</b>
-<br>
-Active Contributor
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/>
-<br>
-<b>🚀 Projects</b>
-<br>
-Full-Stack Applications
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/>
-<br>
-<b>💻 Daily Coding</b>
-<br>
-Consistent Contributor
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="50"/>
-<br>
-<b>🔐 Cybersecurity</b>
-<br>
-Security Focused
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="50"/>
-<br>
-<b>☁️ Cloud Native</b>
-<br>
-Modern Architecture
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="50"/>
-<br>
-<b>📚 Continuous Learning</b>
-<br>
-Always Growing
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💭 Developer Wisdom
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote" />
-
-</div>
-
-### 📉 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<details>
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-<br>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-</div>
-
----
-
-## 📫 Connect With Me
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
 
 <div align="center">
 
@@ -278,41 +147,37 @@ Always Growing
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Abhi_mule27)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Mr.knowletz)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishek-mule)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/abhishek-mule)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://abhishek-mule.github.io)
 
-</div>
+<br/>
 
----
-
-## ☕ Support My Work
-
-<div align="center">
-
-If you find my projects helpful or interesting, consider buying me a coffee! Your support helps me dedicate more time to open source contributions and creating awesome projects.
+### ☕ Support My Work
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhishek-mule)
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhishek-mule&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 ---
 
 <div align="center">
+
+### 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br/><br/>
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-### ⚡ Fun Fact: I debug with console.log() and I'm not ashamed! 😄
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+**Thanks for visiting! Let's build something amazing together!** 🚀✨
 
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<br/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
