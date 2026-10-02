@@ -4,7 +4,7 @@
 
   <h1>Abhishek Mule</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Problem+Solver;Building+impactful+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Problem+Solver;Building+Impactful+Products" alt="Typing banner" />
 
   <p>
     <a href="https://github.com/abhishek-mule"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -23,7 +23,7 @@
 
 ## About Me
 
-I’m a developer passionate about building modern web experiences, solving real-world problems, and continuously learning at the edge of technology. My focus spans full-stack development, cybersecurity, product thinking, and clean engineering practices.
+I’m a developer passionate about building modern web experiences, solving real-world problems, and continuously learning at the edge of technology. My focus spans full-stack development, cybersecurity, open-source work, and product-focused engineering.
 
 ```javascript
 const abhishek = {
@@ -93,10 +93,18 @@ const abhishek = {
 
 ---
 
+## Daily Activity Consistency
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-mule&theme=react-dark&hide_border=true&area=true&custom_title=Daily%20Commit%20Consistency" alt="Daily commit consistency" />
+</p>
+
+---
+
 ## Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-mule&theme=react-dark&hide_border=true&area=true&custom_title=Abhishek%20Mule%20Contribution%20Graph" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-mule&theme=react-dark&hide_border=true&area=true&custom_title=Abhishek%20Mule%20Contribution%20Graph" alt="Contribution graph" />
 </p>
 
 ---
